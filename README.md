@@ -15,6 +15,10 @@ Integrated a modern and trendy dark mode feature to enhance user comfort during 
 4. Smooth Navigation:
 Implemented smooth navigation throughout the website, enhancing user satisfaction and ensuring a hassle-free exploration of the restaurant's offerings.
 
+![Screenshot (48)](https://github.com/angad9/responsive-website-restaurant/assets/73772102/15b669ba-3368-49a0-bdb6-ac648fac0b9f)
+
+
+![Screenshot (47)](https://github.com/angad9/responsive-website-restaurant/assets/73772102/d769f727-1751-46cf-aa0e-40ad5f3cd099)
 
 ![Screenshot (49)](https://github.com/angad9/responsive-website-restaurant/assets/73772102/bff4df84-9dc4-487f-ad2c-272201308ca2)
 
@@ -22,8 +26,7 @@ Implemented smooth navigation throughout the website, enhancing user satisfactio
 
 ![Screenshot (51)](https://github.com/angad9/responsive-website-restaurant/assets/73772102/8ca3e4c5-3c00-48f5-86a2-02580403b084)
 
-![Screenshot (48)](https://github.com/angad9/responsive-website-restaurant/assets/73772102/15b669ba-3368-49a0-bdb6-ac648fac0b9f)
 
-![Screenshot (47)](https://github.com/angad9/responsive-website-restaurant/assets/73772102/d769f727-1751-46cf-aa0e-40ad5f3cd099)
+
 
 
